@@ -1,0 +1,2 @@
+rootProject.name='KillerSlideCheck'
+include ':app'
